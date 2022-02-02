@@ -16,7 +16,7 @@ p, ul, ol, h1, h2, h3, address{
 }
 a,abbr{
     text-decoration: none;
-    color: #222;
+    color: rgb(58, 58, 58);
 }
 *{
     box-sizing: border-box;
@@ -80,4 +80,7 @@ div ul li:hover{
     bottom: 10%;
     left: 5%;
     background-color:rgba(0, 141, 99, 0.3);
+}
+div ul .hello{
+    width: 30rem;
 }
