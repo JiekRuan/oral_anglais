@@ -84,3 +84,12 @@ div ul li:hover{
 div ul .hello{
     width: 30rem;
 }
+div img{
+    width: 70%;
+    margin: 1rem;
+    border-radius: 1rem;
+    border: solid #888888;
+}
+div ul li p{
+    font-size: large;
+}
